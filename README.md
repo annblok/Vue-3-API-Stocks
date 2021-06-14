@@ -1,5 +1,5 @@
 # Broker App
-Vue 3 + TypeScript + Vite + Tailwind CSS
+Vue 3 + TypeScript + Vite + Axios
 
 ### Setup project
 ```
